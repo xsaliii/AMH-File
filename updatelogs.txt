@@ -1,1 +1,3 @@
-[+] Fixed Auto-Updater
+[+] Fixed Group 
+[+} Fixed Account Status
+[+] Better Auto Rejoin
