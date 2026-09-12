@@ -1,3 +1,2 @@
-[+] Added Bulk Account Import
-[+] Better Ram Reduce
-[+] Better Rejoin
+[+] Fixed Multi Roblox
+[+] Fixed Login Bug
